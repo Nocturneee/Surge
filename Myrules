@@ -1,0 +1,25 @@
+DOMAIN,kktxjq.lol
+DOMAIN,www.3bt0.com
+DOMAIN,www.google.com.hk
+DOMAIN,mask-canary.icloud.com
+DOMAIN,vip.video.qq.com
+DOMAIN,www.paypalobjects.com
+DOMAIN,testflight.apple.com
+DOMAIN,api.amplitude.com
+DOMAIN,api.revenuecat.com
+DOMAIN,m.cmx.im
+# > KEYWORD
+DOMAIN-KEYWORD,www.coze.com
+DOMAIN-KEYWORD,zenithspace.net
+DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,paypal.com
+DOMAIN-KEYWORD,mastodon
+DOMAIN-KEYWORD,techhub.social
+DOMAIN-KEYWORD,macked
+# > SUFFIX
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,dl.nssurge.com
+DOMAIN-SUFFIX,www.snssdk.com
+DOMAIN-SUFFIX,surgee.me
+DOMAIN-SUFFIX,www.nssurge.com
+DOMAIN-SUFFIX,cloudflare.com
