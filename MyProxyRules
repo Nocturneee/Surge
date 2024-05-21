@@ -1,0 +1,12 @@
+# > KEYWORD
+DOMAIN-KEYWORD,www.coze.com
+DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,paypal.com
+DOMAIN-KEYWORD,mastodon
+DOMAIN-KEYWORD,techhub.social
+DOMAIN-KEYWORD,macked
+# > SUFFIX
+DOMAIN-SUFFIX,dl.nssurge.com
+DOMAIN-SUFFIX,surgee.me
+DOMAIN-SUFFIX,www.nssurge.com
+DOMAIN-SUFFIX,cloudflare.com
