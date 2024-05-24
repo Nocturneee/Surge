@@ -5,13 +5,14 @@ DOMAIN-KEYWORD,paypal.com
 DOMAIN-KEYWORD,mastodon
 DOMAIN-KEYWORD,techhub.social
 DOMAIN-KEYWORD,macked
-# > SUFFIX
-DOMAIN-SUFFIX,dl.nssurge.com
-DOMAIN-SUFFIX,surgee.me
-DOMAIN-SUFFIX,www.nssurge.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,mobile.eum-appdynamics.com
 DOMAIN-KEYWORD,aa.online-metrix.net
 DOMAIN-KEYWORD,cdntm.hsbc.com.hk
 DOMAIN-KEYWORD,cdnbc-logs.hsbc.com
 DOMAIN-KEYWORD,d0r7clfv2slbaskjrbpfrgqzn4qtocrktla5akcjc611196246f6d3c6sac.d.aa.online-metrix.net
+
+# > SUFFIX
+DOMAIN-SUFFIX,dl.nssurge.com
+DOMAIN-SUFFIX,surgee.me
+DOMAIN-SUFFIX,www.nssurge.com
+DOMAIN-SUFFIX,cloudflare.com
