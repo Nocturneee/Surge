@@ -1,6 +1,6 @@
-DOMAIN,kktxjq.lol
-DOMAIN,www.3bt0.com
-DOMAIN,mask-canary.icloud.com
-DOMAIN,vip.video.qq.com
-DOMAIN-KEYWORD,zenithspace.net
-DOMAIN-SUFFIX,weixin.qq.com,extended-matching
+DOMAIN,kktxjq.lol,no-resolve
+DOMAIN,www.3bt0.com,no-resolve
+DOMAIN,mask-canary.icloud.com,no-resolve
+DOMAIN,vip.video.qq.com,no-resolve
+DOMAIN-KEYWORD,zenithspace.net,no-resolve
+DOMAIN-SUFFIX,weixin.qq.com,extended-matching,no-resolve
