@@ -4,3 +4,5 @@ DOMAIN,mask-canary.icloud.com,no-resolve
 DOMAIN,vip.video.qq.com,no-resolve
 DOMAIN-KEYWORD,zenithspace.net,no-resolve
 DOMAIN-SUFFIX,weixin.qq.com,extended-matching,no-resolve
+DOMAIN-KEYWORD,gcloudcs.com
+DOMAIN-KEYWORD,tcdnos.com
