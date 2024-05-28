@@ -3715,3 +3715,6 @@ IP-CIDR,223.252.192.0/19
 IP-CIDR,223.255.236.0/22
 IP-CIDR,223.255.252.0/23
 ################## EOF ##################
+DOMAIN,router.asus.com
+DOMAIN,setmeup.arubanetworks.com
+DOMAIN,www.asusrouter.com
