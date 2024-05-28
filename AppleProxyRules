@@ -1,0 +1,35 @@
+# Apple
+DOMAIN,testflight.apple.com
+DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
+DOMAIN-SUFFIX,smoot.apple.com // Spotlight
+DOMAIN,amp-api.podcasts.apple.com // Podcasts
+DOMAIN,beta.music.apple.com // Apple Music Web
+DOMAIN,books.itunes.apple.com // iBooks Store download
+DOMAIN,lookup-api.apple.com // Look Up
+DOMAIN,radio.itunes.apple.com // Apple Music Radio
+DOMAIN,stocks-data-service.apple.com
+DOMAIN,stocks-analytics-events.apple.com
+# > Web Preview
+#DOMAIN,apps.apple.com
+DOMAIN,books.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,tv.apple.com
+# > News
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
+# Apple Fitness+ and health
+DOMAIN,hls-svod.itunes.apple.com
+DOMAIN,amp-api.fitness.apple.com
+DOMAIN,config-chr.health.apple.com
+# Apple TV
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN,hls.itunes.apple.com // Trailers
+DOMAIN,hls-amt.itunes.apple.com // Trailers
+DOMAIN,play-edge.itunes.apple.com // Unblock Region
+DOMAIN,tv.applemusic.com
+DOMAIN,uts-api.itunes.apple.com
