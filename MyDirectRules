@@ -11,7 +11,78 @@ DOMAIN-SUFFIX,ls.dtrace.nvidia.com
 DOMAIN-KEYWORD,blackmagicdesign.com
 DOMAIN-SUFFIX,events.gfe.nvidia.com
 DOMAIN,sms-activate.org
+<<<<<<< HEAD
 DOMAIN-SUFFIX,ls.dtrace.nvidia.com
 DOMAIN-KEYWORD,swr.cloud.blackmagicdesign.com
 DOMAIN-SUFFIX,events.gfe.nvidia.com
 DOMAIN,sms-activate.org
+=======
+# Apple
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+IP-ASN,714
+IP-ASN,6185
+# China
+DOMAIN-KEYWORD,iqiyi
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,hdslb
+DOMAIN-KEYWORD,meituan
+DOMAIN-KEYWORD,dianping
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,didi
+DOMAIN-KEYWORD,xiaojukeji
+DOMAIN-KEYWORD,pupu
+DOMAIN-KEYWORD,12306
+DOMAIN-KEYWORD,abcchina
+DOMAIN-KEYWORD,icbc
+DOMAIN-KEYWORD,ccb
+DOMAIN-KEYWORD,boc
+DOMAIN-KEYWORD,webank
+DOMAIN-KEYWORD,weibo
+DOMAIN-KEYWORD,10086
+#DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,178.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,cdntips.net
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,i-amtr.com
+DOMAIN-SUFFIX,picooc-int.com
+DOMAIN-SUFFIX,api.lbkrs.com
+# Others
+DOMAIN-SUFFIX,whatismyipaddress.com
+DOMAIN-SUFFIX,whatismyip.akamai.com
+DOMAIN-SUFFIX,myip.la
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,api-ipv6.ip.sb
+DOMAIN-SUFFIX,sessions.bugsnag.com
+PROCESS-NAME,Tailscale
+# Client
+PROCESS-NAME,UUBooster
+# > Download
+PROCESS-NAME,aria2c
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Transmission
+PROCESS-NAME,uTorrent
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
+PROCESS-NAME,DownloadService
+PROCESS-NAME,Thunder
+PROCESS-NAME,115
+>>>>>>> 20b3b8412b742e266cbf978bd267f686a8ab4785
