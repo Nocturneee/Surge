@@ -6,7 +6,7 @@ DOMAIN,www.3bt0.com
 DOMAIN,mask-canary.icloud.com
 DOMAIN,vip.video.qq.com
 DOMAIN-KEYWORD,zenithspace.net
-DOMAIN-SUFFIX,weixin.qq.com,extended-matching
+DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-KEYWORD,gcloudcs.com
 DOMAIN-KEYWORD,tcdnos.com
 DOMAIN-SUFFIX,ripai.com
