@@ -1,3 +1,4 @@
+
 DOMAIN,52-81-95-57.relay.splashtop.com
 DOMAIN-SUFFIX, b5ca55e5af712bb12c2601378b2c879bb.asuscomm.com:8443
 DOMAIN,b5ca55e5af712bb12c2601378b2c879bb.asuscomm.com
@@ -3727,3 +3728,23 @@ IP-CIDR,223.255.252.0/23
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,www.asusrouter.com
+
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+USER-AGENT,OneDrive*
+USER-AGENT,OneDriveiOSApp*
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
