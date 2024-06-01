@@ -42,10 +42,17 @@ DOMAIN-KEYWORD,tcdnos.com
 DOMAIN-SUFFIX,ripai.com
 DOMAIN-SUFFIX,ls.dtrace.nvidia.com
 DOMAIN-SUFFIX,blackmagicdesign.com
+DOMAIN-SUFFIX,blackmagicraw.com
+DOMAIN-SUFFIX,blackmagiccloud.com
+DOMAIN-SUFFIX,blackmagicdecklink.com
+DOMAIN-SUFFIX,blackmagicmini.com
+DOMAIN-SUFFIX,blackmagicmicro.com
+DOMAIN-SUFFIX,blackmagicwebpresenter.com
+DOMAIN-SUFFIX,blackmagicvideos.com
+DOMAIN-SUFFIX,blackmagiccolor.com
 DOMAIN-SUFFIX,events.gfe.nvidia.com
 DOMAIN,sms-activate.org
 DOMAIN-SUFFIX,ls.dtrace.nvidia.com
-DOMAIN-KEYWORD,swr.cloud.blackmagicdesign.com
 DOMAIN-SUFFIX,events.gfe.nvidia.com
 DOMAIN,sms-activate.org
 # China
