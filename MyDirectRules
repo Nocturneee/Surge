@@ -41,10 +41,10 @@ DOMAIN-KEYWORD,gcloudcs.com
 DOMAIN-KEYWORD,tcdnos.com
 DOMAIN-SUFFIX,ripai.com
 DOMAIN-SUFFIX,ls.dtrace.nvidia.com
-DOMAIN,swr.cloud.blackmagicdesign.com,DIRECT
-DOMAIN,jslibs.blackmagicdesign.com,DIRECT
-DOMAIN,images.blackmagicdesign.com,DIRECT
-DOMAIN,css.blackmagicdesign.com,DIRECT
+DOMAIN,swr.cloud.blackmagicdesign.com
+DOMAIN,jslibs.blackmagicdesign.com
+DOMAIN,images.blackmagicdesign.com
+DOMAIN,css.blackmagicdesign.com
 DOMAIN-SUFFIX,blackmagicdesign.com
 DOMAIN-SUFFIX,blackmagicraw.com
 DOMAIN-SUFFIX,blackmagiccloud.com
