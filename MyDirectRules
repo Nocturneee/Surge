@@ -1,16 +1,4 @@
-DOMAIN,swr.cloud.blackmagicdesign.com
-DOMAIN,jslibs.blackmagicdesign.com
-DOMAIN,images.blackmagicdesign.com
-DOMAIN,css.blackmagicdesign.com
-DOMAIN-SUFFIX,blackmagicdesign.com
-DOMAIN-SUFFIX,blackmagicraw.com
-DOMAIN-SUFFIX,blackmagiccloud.com
-DOMAIN-SUFFIX,blackmagicdecklink.com
-DOMAIN-SUFFIX,blackmagicmini.com
-DOMAIN-SUFFIX,blackmagicmicro.com
-DOMAIN-SUFFIX,blackmagicwebpresenter.com
-DOMAIN-SUFFIX,blackmagicvideos.com
-DOMAIN-SUFFIX,blackmagiccolor.com
+
 DOMAIN-SUFFIX,events.gfe.nvidia.com
 DOMAIN,blizzard.nefficient.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
@@ -20,7 +8,7 @@ DOMAIN,cdn.blz-contentstack.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com.cn
 DOMAIN-SUFFIX,blizzard.co
-=======
+
 DOMAIN-SUFFIX,solarcity.com
 DOMAIN-SUFFIX,tesla-cdn.thron.cn
 DOMAIN-SUFFIX,tesla-cdn.thron.com
@@ -33,7 +21,7 @@ DOMAIN-SUFFIX,teslamotors.com
 DOMAIN-SUFFIX,teslamotors.com.cn
 DOMAIN-SUFFIX,teslazta.net
 DOMAIN-SUFFIX,ts.la
->>>>>>> 16aa8173afe8ae2ef56e85d1160d13a3129f911e
+
 DOMAIN,cas-dc.splashtop.com
 DOMAIN,52-81-95-57.relay.splashtop.com
 DOMAIN-SUFFIX, b5ca55e5af712bb12c2601378b2c879bb.asuscomm.com:8443
