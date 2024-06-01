@@ -8,7 +8,10 @@ DOMAIN,cdn.blz-contentstack.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com.cn
 DOMAIN-SUFFIX,blizzard.co
+<<<<<<< HEAD
 
+=======
+>>>>>>> 30173e88e243a5edc4b642a8c13abe95513f3c70
 DOMAIN-SUFFIX,solarcity.com
 DOMAIN-SUFFIX,tesla-cdn.thron.cn
 DOMAIN-SUFFIX,tesla-cdn.thron.com
@@ -21,7 +24,10 @@ DOMAIN-SUFFIX,teslamotors.com
 DOMAIN-SUFFIX,teslamotors.com.cn
 DOMAIN-SUFFIX,teslazta.net
 DOMAIN-SUFFIX,ts.la
+<<<<<<< HEAD
 
+=======
+>>>>>>> 30173e88e243a5edc4b642a8c13abe95513f3c70
 DOMAIN,cas-dc.splashtop.com
 DOMAIN,52-81-95-57.relay.splashtop.com
 DOMAIN-SUFFIX, b5ca55e5af712bb12c2601378b2c879bb.asuscomm.com:8443
