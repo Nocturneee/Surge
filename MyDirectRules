@@ -1,4 +1,11 @@
-
+DOMAIN,blizzard.nefficient.co.kr
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,bnetproduct-a.akamaihd.net
+DOMAIN,cdn.blz-contentstack.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com.cn
+DOMAIN-SUFFIX,blizzard.co
 DOMAIN,cas-dc.splashtop.com
 DOMAIN,52-81-95-57.relay.splashtop.com
 DOMAIN-SUFFIX, b5ca55e5af712bb12c2601378b2c879bb.asuscomm.com:8443
