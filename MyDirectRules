@@ -1,3 +1,4 @@
+DOMAIN-SET, /^edge-0([1-9]|[1-9][0-9]|100)\.xactu1\.icloud-content\.com\.cn$/
 DOMAIN,d4-ec.a.kwimgs.com
 # 同花顺
 DOMAIN-SUFFIX,push.hexin.cn
