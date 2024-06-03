@@ -1,3 +1,43 @@
+# 同花顺
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,same.10jqka.com.cn
+DOMAIN-SUFFIX,spd.10jqka.com.cn
+DOMAIN-SUFFIX,x.10jqka.com.cn
+DOMAIN-SUFFIX,q.10jqka.com.cn
+DOMAIN-SUFFIX,w.10jqka.com.cn
+# 东方财富
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,push2.eastmoney.com
+DOMAIN-SUFFIX,push2his.eastmoney.com
+# 大智慧
+DOMAIN-SUFFIX,dzh.com
+# 新浪财经
+DOMAIN-SUFFIX,finance.sina.com.cn
+# 雪球
+DOMAIN-SUFFIX,xueqiu.com
+DOMAIN-SUFFIX,static.snowballfinance.com
+# 老虎证券
+DOMAIN-SUFFIX,tigerbrokers.com
+# 富途牛牛
+DOMAIN-SUFFIX,futunn.com
+# 腾讯自选股
+DOMAIN-SUFFIX,stock.qq.com
+# 其他常用股票相关域名
+DOMAIN-SUFFIX,gw.com.cn
+DOMAIN-SUFFIX,cs.com.cn
+DOMAIN-SUFFIX,hc.com.cn
+DOMAIN-SUFFIX,cnstock.com
+DOMAIN-SUFFIX,stockstar.com
+DOMAIN-SUFFIX,cfi.cn
+DOMAIN-SUFFIX,jrj.com.cn
+DOMAIN-SUFFIX,hexun.com
+DOMAIN-SUFFIX,stcn.com
+DOMAIN-SUFFIX,stock.hexun.com
+DOMAIN-SUFFIX,news.cnstock.com
+DOMAIN-SUFFIX,finance.china.com.cn
+DOMAIN-SUFFIX,finance.eastmoney.com
+DOMAIN-SUFFIX,finance.sina.com.cn
+DOMAIN-SUFFIX,stock.10jqka.com.cn
 DOMAIN,lf3-static.bytednsdoc.com
 DOMAIN,v5-dy-o-abtest.zjcdn.com
 DOMAIN-SUFFIX,amemv.com
