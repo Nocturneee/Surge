@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,cdnbc-logs.hsbc.com
 DOMAIN-KEYWORD,d0r7clfv2slbaskjrbpfrgqzn4qtocrktla5akcjc611196246f6d3c6sac.d.aa.online-metrix.net
 DOMAIN-KEYWORD,nssurge.com
 # > SUFFIX
+DOMAIN-SUFFIX,5beresim-file.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,airhorn.solutions
