@@ -1,4 +1,6 @@
 # Apple
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN,testflight.apple.com
 DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
 DOMAIN-SUFFIX,smoot.apple.com // Spotlight
