@@ -1,5 +1,13 @@
-DOMAIN-SUFFIX,event.textnow.me
-DOMAIN-SUFFIX,shop.ugoearn.com
+
+# UgoEarn Shop Surge Rules
+DOMAIN-SUFFIX,ugoearn.com
+DOMAIN,shop.ugoearn.com
+DOMAIN,api.ugoearn.com
+DOMAIN,cdn.ugoearn.com
+DOMAIN,img.ugoearn.com
+DOMAIN-KEYWORD,ugoearn
+IP-CIDR,104.21.0.0/20
+IP-CIDR,172.67.0.0/16
 
 # Tello
 DOMAIN-SUFFIX,tello.com
@@ -31,3 +39,79 @@ DOMAIN,static.textnow.com
 DOMAIN-KEYWORD,textnow
 IP-CIDR,35.186.0.0/17
 IP-CIDR,35.192.0.0/14
+
+# Anthropic Claude API Surge Rules
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,anthropic.ai
+DOMAIN,api.anthropic.com
+DOMAIN,claude-api.anthropic.com
+DOMAIN-KEYWORD,anthropic
+IP-CIDR,104.18.0.0/16
+IP-CIDR,104.22.0.0/16
+IP-CIDR,172.64.0.0/13
+
+# Verizon
+DOMAIN-SUFFIX,verizon.com
+DOMAIN-SUFFIX,vzw.com
+DOMAIN-SUFFIX,verizonwireless.com
+
+# AT&T
+DOMAIN-SUFFIX,att.com
+DOMAIN-SUFFIX,attws.com
+DOMAIN-SUFFIX,attwifi.com
+
+# T-Mobile
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,tmobile.com
+DOMAIN-SUFFIX,sprint.com
+
+# Comcast
+DOMAIN-SUFFIX,xfinity.com
+DOMAIN-SUFFIX,comcast.net
+DOMAIN-SUFFIX,comcast.com
+
+# Charter (Spectrum)
+DOMAIN-SUFFIX,spectrum.com
+DOMAIN-SUFFIX,charter.com
+DOMAIN-SUFFIX,timewarnercable.com
+
+# CenturyLink
+DOMAIN-SUFFIX,centurylink.com
+DOMAIN-SUFFIX,level3.com
+
+# Frontier Communications
+DOMAIN-SUFFIX,frontier.com
+
+# Cox Communications
+DOMAIN-SUFFIX,cox.com
+DOMAIN-SUFFIX,cox.net
+
+# US Cellular
+DOMAIN-SUFFIX,uscellular.com
+
+# Boost Mobile
+DOMAIN-SUFFIX,boostmobile.com
+
+# Cricket Wireless
+DOMAIN-SUFFIX,cricketwireless.com
+
+# Metro by T-Mobile
+DOMAIN-SUFFIX,metrobyt-mobile.com
+
+# Mint Mobile
+DOMAIN-SUFFIX,mintmobile.com
+
+# Google Fi
+DOMAIN-SUFFIX,fi.google.com
+
+# Visible
+DOMAIN-SUFFIX,visible.com
+
+# General keywords
+DOMAIN-KEYWORD,cellular
+DOMAIN-KEYWORD,wireless
+DOMAIN-KEYWORD,mobile
+
+# Common IP ranges (example, needs verification)
+IP-CIDR,199.0.0.0/8
+IP-CIDR,208.0.0.0/8
