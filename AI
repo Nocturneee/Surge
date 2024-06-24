@@ -34,7 +34,6 @@ DOMAIN-KEYWORD,openai
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,20473,no-resolve
-
 # > SUFFIX 微软
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,1drv.com
@@ -119,3 +118,8 @@ DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,hotmail
+DOMAIN-SUFFIX,shopping.bing-shopping.microsoft-falcon.io
+DOMAIN-SUFFIX,api.microsoftapp.net
+DOMAIN-SUFFIX,api.msn.com
+DOMAIN-SUFFIX,prod.rewardsplatform.microsoft.com
+DOMAIN-SUFFIX,self.events.data.microsoft.com
