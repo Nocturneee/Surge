@@ -1,8 +1,33 @@
 DOMAIN-SUFFIX,event.textnow.me
 DOMAIN-SUFFIX,shop.ugoearn.com
+
+# Tello
 DOMAIN-SUFFIX,tello.com
-DOMAIN-SUFFIX,www.tello.com
-DOMAIN-SUFFIX,m.tello.com
+DOMAIN-SUFFIX,tellocdn.com
+DOMAIN-SUFFIX,tellocustomercare.com
+DOMAIN,api.tello.com
+IP-CIDR,104.16.0.0/12
+
+# RedPocket
 DOMAIN-SUFFIX,redpocket.com
-DOMAIN-SUFFIX,www.redpocket.com
-DOMAIN-SUFFIX,m.redpocket.com
+DOMAIN-SUFFIX,goredpocket.com
+DOMAIN,my.redpocket.com
+DOMAIN,shop.redpocket.com
+DOMAIN,support.redpocket.com
+DOMAIN,activate.redpocket.com
+DOMAIN-KEYWORD,redpocket
+IP-CIDR,104.26.0.0/20
+IP-CIDR,172.67.0.0/16
+
+# TextNow Surge Rules
+DOMAIN-SUFFIX,textnow.com
+DOMAIN-SUFFIX,textnow.me
+DOMAIN,api.textnow.me
+DOMAIN,cdn.textnow.com
+DOMAIN,cdn.textnow.me
+DOMAIN,logging.textnow.me
+DOMAIN,messaging.textnow.com
+DOMAIN,static.textnow.com
+DOMAIN-KEYWORD,textnow
+IP-CIDR,35.186.0.0/17
+IP-CIDR,35.192.0.0/14
