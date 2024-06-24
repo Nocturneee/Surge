@@ -115,3 +115,56 @@ DOMAIN-KEYWORD,mobile
 # Common IP ranges (example, needs verification)
 IP-CIDR,199.0.0.0/8
 IP-CIDR,208.0.0.0/8
+
+# Viber Rules
+# 主要域名
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,cdn.viber.com
+DOMAIN-SUFFIX,www.viber.com
+DOMAIN-SUFFIX,account.viber.com
+DOMAIN-SUFFIX,api.viber.com
+DOMAIN-SUFFIX,share.viber.com
+DOMAIN-SUFFIX,stickers.viber.com
+
+# 媒体服务器
+DOMAIN-SUFFIX,media.viber.com
+DOMAIN-SUFFIX,mediaserver.viber.com
+
+# 通话服务器
+DOMAIN-SUFFIX,calls.viber.com
+
+# 消息服务器
+DOMAIN-SUFFIX,msg.viber.com
+DOMAIN-SUFFIX,msgsrv.viber.com
+
+# 群组服务
+DOMAIN-SUFFIX,groups.viber.com
+
+# 广告和分析
+DOMAIN-SUFFIX,ads.viber.com
+DOMAIN-SUFFIX,analytics.viber.com
+
+# 内容分发网络
+DOMAIN-SUFFIX,dl-media.viber.com
+DOMAIN-SUFFIX,dl-content.viber.com
+
+# Viber Out 服务
+DOMAIN-SUFFIX,out.viber.com
+
+# API 和服务
+DOMAIN-SUFFIX,api.usr.viber.com
+DOMAIN-SUFFIX,api.aws.viber.com
+
+# 其他可能的子域名
+DOMAIN-SUFFIX,*.viber.com
+
+# IP 地址范围（示例，可能需要更新）
+IP-CIDR,52.0.0.0/14,no-resolve
+IP-CIDR,69.0.0.0/16,no-resolve
+IP-CIDR,103.0.0.0/16,no-resolve
+
+# 用于 Viber 的 AWS 服务
+DOMAIN-KEYWORD,viber-aws
+
+# 用于 Viber 的 Akamai CDN
+DOMAIN-KEYWORD,viber-akamai
