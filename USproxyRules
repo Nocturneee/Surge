@@ -107,11 +107,6 @@ DOMAIN-SUFFIX,fi.google.com
 # Visible
 DOMAIN-SUFFIX,visible.com
 
-# General keywords
-DOMAIN-KEYWORD,cellular
-DOMAIN-KEYWORD,wireless
-DOMAIN-KEYWORD,mobile
-
 # Common IP ranges (example, needs verification)
 IP-CIDR,199.0.0.0/8
 IP-CIDR,208.0.0.0/8
