@@ -1,0 +1,25 @@
+# Charles Schwab Surge Rules
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwabinstitutional.com
+DOMAIN-SUFFIX,schwaballiance.com
+DOMAIN-SUFFIX,schwabbank.com
+DOMAIN-SUFFIX,schwabplan.com
+DOMAIN-SUFFIX,schwabrt.com
+DOMAIN-SUFFIX,schwabsavings.com
+DOMAIN-SUFFIX,schwabmoneywise.com
+DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,schwab-global.com
+DOMAIN-SUFFIX,schwabcharitable.org
+DOMAIN-SUFFIX,schwabfunds.com
+DOMAIN-SUFFIX,schwabetf.com
+DOMAIN-SUFFIX,optionsxpress.com
+
+# 可能需要的相关域名
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,ameritrade.com
+
+# 通用金融关键词（可选）
+DOMAIN-KEYWORD,schwab
+DOMAIN-KEYWORD,brokerage
+DOMAIN-KEYWORD,investing
+DOMAIN-KEYWORD,trading
